@@ -72,23 +72,6 @@ Run the project locally in 3 simple steps:
     ```bash
     npm run dev
     ```
-
-## 🚀 Deployment
-
-This project is optimized for deployment on **Vercel**.
-
-1.  Install the Vercel CLI:
-    ```bash
-    npm i -g vercel
-    ```
-
-2.  Deploy with a single command:
-    ```bash
-    vercel
-    ```
-
-_Note: A `vercel.json` file is included to handle Single Page Application (SPA) routing automatically._
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
