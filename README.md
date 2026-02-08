@@ -2,6 +2,8 @@
 
   <h1>✨ Link to QR ✨</h1>
   <h3>Professional QR Code Generator for the Modern Web</h3>
+ 
+
 
   <p>
     <a href="https://github.com/Jayasakthi-07/Link-to-QR/graphs/contributors">
@@ -23,6 +25,7 @@
 
   <br />
 </div>
+Preview:  https://link-to-qr-steel.vercel.app/
 
 ---
 
